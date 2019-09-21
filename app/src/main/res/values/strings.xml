@@ -23,5 +23,9 @@
     <string name="Delivery">Delivery Management</string>
     <string name="UpdateButton">Update Details</string>
     <string name="DeleteAccount">Delete My Account</string>
-    <string name="AccountDetails">(Name) s Account </string>
+    <string name="AccountDetails">My Account </string>
+    <string name="btnAccount">My Account</string>
+    <string name="btnBuy">BUY</string>
+    <string name="btnBack">Back</string>
+    <string name="btnView">View</string>
 </resources>
